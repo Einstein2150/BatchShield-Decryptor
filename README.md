@@ -1,6 +1,10 @@
 # BatchShield Decryptor Tool
 
-![]()
+## Introduction
+
+In recent years, malware developers have increasingly utilized obfuscation techniques to conceal their malicious scripts, particularly in the form of batch files. One such tool, [BatchShield](https://github.com/DevBubba/BatchShield), has been used to make these batch scripts unreadable, complicating the analysis and detection of malware.
+
+As part of my research and analysis into malware, I recognized the need for a tool that could reverse this obfuscation and make these scripts readable again. This motivated me to develop the **BatchShield Decryptor Tool**, which is designed specifically for this purpose. By restoring the original content of obfuscated batch scripts, I aim to aid security professionals and researchers in their efforts to understand and combat malware more effectively.
 
 The **BatchShield Decryptor Tool** allows you to make readable batch scripts that have been obfuscated using [BatchShield](https://github.com/DevBubba/BatchShield).
 
