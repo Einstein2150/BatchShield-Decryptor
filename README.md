@@ -23,7 +23,7 @@ Change into the directory:
 ```cd BatchShieldDecryptor```
 
 <div style="border: 2px solid black; padding: 10px; display: inline-block;">
-    <img src="pictures/MAIN.PNG" alt="MAIN" style="max-width: 100%;">
+    <img src="./pictures/MAIN.PNG" alt="MAIN" style="max-width: 100%;">
 </div>
    	
 ## Usage
