@@ -32,7 +32,7 @@ To deobfuscate a batch script, run the deobfuscator.py file with Python 3:
 
 ```python3 deobfuscator.py```
 
-###Example
+### Example
 
 When the program runs, you will be prompted to enter the path to the obfuscated batch file (.bat) and the output file name for the deobfuscated content.
 
@@ -44,12 +44,12 @@ Enter the path to the obfuscated file and choose a name for the output file.
 
 The program will remove all strings between percent signs (%) that were randomly obfuscated and save the deobfuscated content in the specified output file.
 
-###Obfuscated
+### Obfuscated
 <div style="border: 2px solid black; padding: 10px; display: inline-block;">
     <img src="./pictures/OBFUSCATED.png" alt="MAIN" style="max-width: 100%;"/>
 </div>
 
-###Deobfuscated
+### Deobfuscated
 <div style="border: 2px solid black; padding: 10px; display: inline-block;">
     <img src="./pictures/DEOBFUSCATED.png" alt="MAIN" style="max-width: 100%;"/>
 </div>
